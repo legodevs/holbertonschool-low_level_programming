@@ -14,16 +14,16 @@ int main(void)
 
 	for (dig = '0'; dig < '9'; dig++)
 	{
-	
+
 	for (comb = dig + 1; comb <= '9'; comb++)
 	{
-	
+
 	for (com2 = comb + 1; com2 <= '9'; com2++)
 	{
-	
+
 	if ((comb != dig) != com2)
 	{
-	
+
 	putchar(dig);
 	putchar(comb);
 	putchar(com2);
