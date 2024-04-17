@@ -18,8 +18,10 @@ int main(void)
 
 	for (comb =dig + 1; comb <= '9'; comb++)
 	{
+
 	if (comb != dig)
 	{
+
 	putchar(dig);
 	putchar(comb);
 	if (dig == '8' && comb == '9')
