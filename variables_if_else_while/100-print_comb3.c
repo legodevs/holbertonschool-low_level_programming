@@ -16,7 +16,7 @@ int main(void)
 	for (dig = '0'; dig < '9'; dig++)
 	{
 
-	for (comb =dig + 1; comb <= '9'; comb++)
+	for (comb = dig + 1; comb <= '9'; comb++)
 	{
 
 	if (comb != dig)
