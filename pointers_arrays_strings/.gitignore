@@ -30,3 +30,5 @@ _putchar.c
 0-strcat
 1-main1.c
 1-strncat
+2-main1.c
+2-strncpy
