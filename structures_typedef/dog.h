@@ -10,7 +10,7 @@
   * Description: The attributes of a dog.
   */
 
-struct dog
+struct dog;
 {
 	char *name;
 	float age;
