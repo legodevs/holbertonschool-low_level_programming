@@ -1,3 +1,5 @@
 main.c
 c
 main.o
+1-main.s
+main.s
