@@ -5,3 +5,5 @@ main.o
 main.s
 cisfun
 a.out
+size32
+size64
